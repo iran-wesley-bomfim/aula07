@@ -1,2 +1,6 @@
-# aula07
-Repositório da aula 07
+Digital house 
+
+Reposiório da Aula 07
+
+Git
+JavaScript
